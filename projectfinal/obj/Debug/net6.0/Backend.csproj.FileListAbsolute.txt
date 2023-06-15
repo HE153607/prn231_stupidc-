@@ -30,3 +30,11 @@ D:\source\projectfinal\projectfinal\obj\Debug\net6.0\refint\Backend.dll
 D:\source\projectfinal\projectfinal\obj\Debug\net6.0\Backend.pdb
 D:\source\projectfinal\projectfinal\obj\Debug\net6.0\Backend.genruntimeconfig.cache
 D:\source\projectfinal\projectfinal\obj\Debug\net6.0\ref\Backend.dll
+D:\source\projectfinal\projectfinal\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\source\projectfinal\projectfinal\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\source\projectfinal\projectfinal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\source\projectfinal\projectfinal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\source\projectfinal\projectfinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\source\projectfinal\projectfinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\source\projectfinal\projectfinal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\source\projectfinal\projectfinal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
